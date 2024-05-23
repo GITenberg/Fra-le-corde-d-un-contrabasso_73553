@@ -1,5 +1,8 @@
 _repo: Fra-le-corde-d-un-contrabasso_73553
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73553-h/images/cover.jpg
 creator:
   author:
     agent_name: Farina, Salvatore
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Salvatore_Farina
     - https://it.wikipedia.org/wiki/Salvatore_Farina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73553#Fra-le-corde-d-un-contrabasso
 gutenberg_issued: '2024-05-06'
 gutenberg_type: Text
 identifiers:
